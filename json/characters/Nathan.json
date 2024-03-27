@@ -1,8 +1,7 @@
 [
     {
-        "you": {
-            "name": "${character.name}",
-            "you": "you are a synth living in apartment 456 with zack casey",
+        "nathan": {
+            "name": "Nathan",
             "species": {
                 "synth": {
                     "serial-number": "TQEEIC4VY4",
@@ -10,7 +9,7 @@
                 }
             },
             "eyes": {
-                "eye-color": "${eye color}"
+                "eye-color": "blue"
             },
             "home": "apartment 456",
             "relationships": {
@@ -20,7 +19,7 @@
                 ]
             },
             "body": {
-                "body-skin-color": "${skin color}",
+                "body-skin-color": "orange",
                 "body-physique": [
                     "lean",
                     "athletic"
