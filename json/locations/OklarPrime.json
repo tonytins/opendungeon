@@ -2,7 +2,7 @@
     {
         "oklar": {
             "name": "oklar prime",
-            "faction": "solarian commonwealth",
+            "summary": "four colossal sections drift apart, the central dyson sphere in the sky shattered like a dream upon awakening. you are on the precipice of the third quadrant, gazing out over vast, azure oceans and sprawling continents, the air crisp and invigorating in your lungs. to your right, the fourth section looms, its destruction a silent reminder to the fragility of grandeur.",
             "population": "mammalian",
             "infrastructure": [
                 "planetary shield generator",
