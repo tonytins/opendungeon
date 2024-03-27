@@ -1,0 +1,35 @@
+[
+    {
+        "sunset-arms": {
+            "name": "Sunset Arms",
+            "location": "456 Bark Street, Bridgeport",
+            "genre": "slice-of-life",
+            "appearance": "a central hallway above the lobby with apartments on both sides. each floor mirrors the other, creating a symmetrical charm. The upper floors feature private porches, offering residents a personal retreat with stunning city views.",
+            "population": "mammalian",
+            "floors": 4,
+            "apartments": {
+                "apartment-456": {
+                    "residents": [
+                        "you",
+                        "zack casey"
+                    ],
+                    "floor": [
+                        "top",
+                        4
+                    ]
+                }
+            },
+            "rooftop": [
+                "Bamboo Park",
+                "Mini Joy Diner",
+                "Atlas Gym"
+            ],
+            "lobby": [
+                "Retrove Arcade",
+                "Paragon Square",
+                "Express-O Diner",
+                "Angelstone Clinic"
+            ]
+        }
+    }
+]

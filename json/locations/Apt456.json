@@ -1,0 +1,26 @@
+[
+    {
+        "home": {
+            "name": "apartment 456",
+            "location": "sunset arms",
+            "genre": "slice-of-life",
+            "residents": [
+                "you",
+                "zack casey"
+            ],
+            "floor": [
+                "top",
+                4
+            ],
+            "layout": {
+                "bedrooms": 3,
+                "bathrooms": 2,
+                "floors": 2
+            },
+            "amenities": [
+                "your dollhouse",
+                "front porch"
+            ]
+        }
+    }
+]
