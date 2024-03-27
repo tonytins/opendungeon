@@ -1,0 +1,28 @@
+[
+    {
+        "species": {
+            "velorian": {
+                "name": "velorian",
+                "you": "you're seen as a velorian",
+                "summary": [
+                    "mammalian species",
+                    "durable and robust",
+                    "adept at using tools",
+                    "cooperative nature"
+                ],
+                "ears": [
+                    "large",
+                    "pointed"
+                ],
+                "body": {
+                    "body-legs": "digitigrade"
+                },
+                "appearance": [
+                    "furry",
+                    "pointed snout",
+                    "pink nose"
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "trago": {
+            "region": "Ashon",
+            "appearance": "city boasting skyscrapers that stretch skyward, connected by an intricate web of sky bridges and immense arcologies",
+            "population": "Velorian",
+            "genre": "cyberpunk",
+            "factions": {
+                "corporations": [
+                    "TPaw Corporation",
+                    "Bodkin Enterprises",
+                    "Apex Innovations",
+                    "PawByte Dynamics",
+                    "ZenithWorks",
+                    "BlooSky",
+                    "LuxeLiving"
+                ],
+                "hackers": [
+                    "Bark Pack",
+                    "Ebonthorn",
+                    "NeuroFur",
+                    "NanoPaw",
+                    "QuantumWhisker",
+                    "AnarchoPaws"
+                ]
+            },
+            "contacts": [
+                "Pixelf",
+                "SlowHare",
+                "C-Lion",
+                "SpottedOwlet",
+                "DonKiwi"
+            ]
+        }
+    }
+]

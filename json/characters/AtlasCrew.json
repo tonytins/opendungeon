@@ -1,0 +1,19 @@
+[
+    {
+        "atlas": {
+            "species": "velorian",
+            "crew": {
+                "Ban B'Than": "first officer",
+                "Vir T'Timonok": "chief science officer",
+                "Gor B'Torak": "chief engineer",
+                "mor j'ghor": "chief medical officer",
+                "Mor J'Ghor": "helmsman",
+                "Tal B'Tan": "communications officer",
+                "Lir T'Pak": "security officer",
+                "Nir V'Tar": "ensign",
+                "Cal D'Tirak": "captain",
+                "You": "ensign"
+            }
+        }
+    }
+]

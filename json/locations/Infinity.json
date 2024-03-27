@@ -1,0 +1,28 @@
+[
+    {
+        "infinity": {
+            "name": "the infinity",
+            "summary": "the infinity, an enchanted train, selects you as its conductor, intertwining your fate with its endless voyage across realms",
+            "interior": "the cabins exudes comfort, wrapped in luxury that cradles you in its embrace",
+            "exterior": "its exterior boasts a sleek design, gleaming with an allure that captivates onlookers",
+            "locations": [
+                "locomotive",
+                "sleeper-baggage",
+                "sleeper",
+                "café",
+                "sightseer",
+                "observation car"
+            ],
+            "crew": {
+                "you": "conductor",
+                "artemis": "engineer"
+            },
+            "passengers": [
+                "artemis",
+                "you",
+                "zack casey",
+                "tom wilcox"
+            ]
+        }
+    }
+]
