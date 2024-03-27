@@ -1,0 +1,38 @@
+[
+    {
+        "factions": {
+            "location": "bridgeport",
+            "genre": "cyberpunk",
+            "corpo": [
+                "TPaw Corporation",
+                "Bodkin Enterprises",
+                "Apex Innovations",
+                "PawByte Dynamics",
+                "ZenithWorks",
+                "BlooSky",
+                "LuxeLiving"
+            ],
+            "hackers": [
+                "Bark Pack",
+                "Ebonthorn",
+                "NeuroFur",
+                "NanoPaw",
+                "QuantumWhisker",
+                "AnarchoPaws"
+            ],
+            "nomad": [
+                "SteelVoyagers",
+                "CircuitRunners",
+                "NeonNomads",
+                "PixelTail",
+                "DataDrifters",
+                "NeonPaws"
+            ],
+            "media": [
+                "Furry News Network",
+                "Pawprint Press",
+                "WhiteGlove Entertainment"
+            ]
+        }
+    }
+]

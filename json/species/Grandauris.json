@@ -1,0 +1,24 @@
+[
+    {
+        "species": {
+            "grandauris": {
+                "name": "Grandauris",
+                "you": "you are a Grandauris mouse",
+                "summary": "a mouse species",
+                "appearance": [
+                    "oversized ears and a delicate pink nose",
+                    "white or gray fur",
+                    "unique black patterns decorate each head",
+                    "agile, prehensile tails with ability to climb or hold objects"
+                ],
+                "body": {
+                    "body-height": [
+                        "12cm",
+                        "4 inches"
+                    ],
+                    "body-tail": "prehensile"
+                }
+            }
+        }
+    }
+]

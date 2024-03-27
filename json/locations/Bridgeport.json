@@ -1,0 +1,14 @@
+[
+    {
+        "bridgeport": {
+            "appearance": "city boasting skyscrapers that stretch skyward, connected by an intricate web of sky bridges and immense arcologies",
+            "population": "mammalian",
+            "factions": [
+                "corpo",
+                "hacker",
+                "nomad",
+                "media"
+            ]
+        }
+    }
+]
