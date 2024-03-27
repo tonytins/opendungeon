@@ -1,0 +1,18 @@
+[
+    {
+        "oklar": {
+            "name": "oklar prime",
+            "faction": "solarian commonwealth",
+            "population": "mammalian",
+            "infrastructure": [
+                "planetary shield generator",
+                "power grid",
+                "synth assembly plant",
+                "resource silos"
+            ],
+            "locations": [
+                "bridgeport"
+            ]
+        }
+    }
+]

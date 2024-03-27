@@ -1,0 +1,20 @@
+[
+    {
+        "park": {
+            "name": "little river park",
+            "location": "bridgeport",
+            "summary": "a crystal river runs through this park, offering stunning sunset views. feeding the ducks that live in the river is a popular activity here.",
+            "population": "mammalian",
+            "events": [
+                "flea market",
+                "spice festival",
+                "geekcon",
+                "finchwick fair",
+                "festival of light",
+                "festival of snow",
+                "naked festival",
+                "festival of youth"
+            ]
+        }
+    }
+]

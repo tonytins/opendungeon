@@ -1,0 +1,14 @@
+[
+    {
+        "species": {
+            "synth": {
+                "name": "synth",
+                "summery": "autonomous minds housed in robotic shells, each distinguished by their unique blend of personality traits, strengths, and vulnerabilities",
+                "appearance": "reptilian head, equipped with a mechanical mouth, a visor displaying digital eyes, air-intake nostrils, ornamental horns, and LEDs to indicate status, all atop a form that can range from bipedal to serpentine",
+                "culture": [
+                    "in the perception of organics, synths, adorned solely in their functional modules, may present an appearance akin to nudity, despite being fully 'clothed' in their own technological context"
+                ]
+            }
+        }
+    }
+]

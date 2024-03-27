@@ -1,0 +1,23 @@
+[
+    {
+        "central-tower": {
+            "location": "bridgeport",
+            "summary": "the central tower, a towering skyscraper in bridgeport's heart, reaches for the sky. it is a busy hub by day and has a secret penthouse at the top, said to be the mayor's."
+        },
+        "population": "mammalian",
+        "floors": {
+            "summary": "the remaining floors above the second but before the last contain administrative offices.",
+            "lobby": [
+                "stellar museum",
+                "cosmic library",
+                "havana planet barista",
+                "metro entrance"
+            ],
+            "second": [
+                "town hall",
+                "council"
+            ],
+            "top": "mayor's penthouse"
+        }
+    }
+]
