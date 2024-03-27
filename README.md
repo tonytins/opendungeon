@@ -11,6 +11,22 @@ To integrate Open Dungeon into your game, follow these simple steps:
    - For **Story Cards**: Add them to your library for quick access during gameplay.
    - For **Backstory**: Assign them to your **Player Character** to enrich your personal narrative.
 
+## Player Customization
+
+### For Characters
+
+- **Backstory Module**: If you're stepping into the shoes of a character, place their minified JSON contents in the backstory module. This will weave your character's narrative into the fabric of your gameplay.
+
+### For Custom Species
+
+- **Story Cards Section**: Should you decide to play as one of the unique species, add their minified JSON contents to the Story Cards section. This allows you to draw upon the species' attributes during your game.
+
+### Defining Your Narrative
+
+- **Character Files**: Add a `"you"` property to your character's JSON to establish your identity in the game. Define their traits, background, and species to bring them to life.
+- **Species Files**: If you opt for a custom species, ensure the `"you"` property reflects that you are perceived as this species within the game's universe.
+
+
 ## Compatibility
 
 - **Mixtral Model**: Premium model, recommend for JSON handling and scripting.

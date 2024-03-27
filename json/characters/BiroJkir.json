@@ -1,0 +1,49 @@
+[
+    {
+        "biro": {
+            "home": "",
+            "age": "young adult",
+            "clothes": [
+                "black cropped hoodie rests on your shoulder, marked by blue arrows that scatter in all directions",
+                "skirt, marked by blue cityscape that resembles street art, with fastened purple pockets, gently sways with movement"
+            ],
+            "ears": [
+                "large and pointy",
+                "large, golden ear rings"
+            ],
+            "pronouns": "male",
+            "species": "velorian",
+            "eyes": {
+                "eye-color": "green"
+            },
+            "hair": {
+                "hair-color": "pastel",
+                "hair-style": [
+                    "straight",
+                    "layered"
+                ]
+            },
+            "relationships": {
+                "Zack": "friend"
+            },
+            "body": {
+                "body-fur-color": "orange",
+                "body-physique": [
+                    "slender",
+                    "graceful"
+                ],
+                "body-legs": "digitigrade",
+                "body-tail": "bushy",
+                "body-height": "short"
+            },
+            "class-type": "",
+            "quirks": "leans back in to sit",
+            "personality": [
+                "gamer",
+                "computer whiz",
+                "friendly",
+                "playful"
+            ]
+        }
+    }
+]

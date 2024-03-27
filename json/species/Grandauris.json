@@ -3,7 +3,6 @@
         "species": {
             "grandauris": {
                 "name": "Grandauris",
-                "you": "you are seen as a Grandauris mouse",
                 "summary": "a mouse species",
                 "appearance": [
                     "delicate pink nose",

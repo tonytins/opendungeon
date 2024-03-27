@@ -1,0 +1,56 @@
+[
+    {
+        "aidan": {
+            "name": "Aidan Cheddar",
+            "age": "adult",
+            "species": [
+                "grandauris",
+                "mouse"
+            ],
+            "pronouns": "male",
+            "clothes": "emerald green sweater dress with stretchy material, allowing for graceful, unrestricted motion, ending just below your thighs",
+            "relationships": {
+                "Zack": "friend"
+            },
+            "eyes": {
+                "eye-color": "yellow"
+            },
+            "ears": [
+                "big",
+                "round"
+            ],
+            "hair": {
+                "hair-color": "brown",
+                "hair-length": "medium",
+                "hair-style": [
+                    "wavy",
+                    "side-parted"
+                ]
+            },
+            "body": {
+                "body-fur": [
+                    "white",
+                    "black splotches"
+                ],
+                "body-physique": [
+                    "petite",
+                    "short"
+                ],
+                "body-legs": "digitigrade",
+                "body-height": [
+                    "12cm",
+                    "4 inches"
+                ],
+                "body-tail": "pink"
+            },
+            "class-type": "",
+            "quirks": "likes cheese",
+            "personality": [
+                "ambitious",
+                "art lover",
+                "gamer",
+                "foodie"
+            ]
+        }
+    }
+]

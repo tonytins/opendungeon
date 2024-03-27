@@ -1,0 +1,52 @@
+[
+    {
+        "zack": {
+            "name": "Zack Casey",
+            "home": "",
+            "age": "adult",
+            "clothes": [
+                "vibrant green skirt with pleats that are crisp and precise",
+                "letterman jacket is a bold combination of orange and green, the colors of a sunset over a lush forest"
+            ],
+            "pronouns": "male",
+            "species": "fennec",
+            "eyes": {
+                "eye-color": "green"
+            },
+            "hair": {
+                "hair-color": "brown",
+                "hair-length": "medium",
+                "hair-style": [
+                    "bangs",
+                    "straight"
+                ]
+            },
+            "relationships": {
+                "Aidan": "friend"
+            },
+            "body": {
+                "body-fur": "blue",
+                "body-physique": [
+                    "average",
+                    "medium"
+                ],
+                "body-height": [
+                    "150cm",
+                    "5ft"
+                ],
+                "body-tail": [
+                    "fluffy",
+                    "blue"
+                ]
+            },
+            "class-type": "",
+            "quirks": "likes coffee",
+            "personality": [
+                "gamer",
+                "music lover",
+                "socially awkward",
+                "hopeless romantic"
+            ]
+        }
+    }
+]
