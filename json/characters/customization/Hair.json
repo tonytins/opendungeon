@@ -1,0 +1,122 @@
+[
+    {
+        "hair": {
+            "hair-color": "midnight blue",
+            "hair-length": "waist-length",
+            "hair-style": [
+                "wavy",
+                "half-up"
+            ]
+        }
+    },
+    {
+        "hair": {
+            "hair-color": "sun-kissed blonde",
+            "hair-length": "bob",
+            "hair-style": [
+                "straight",
+                "blunt-cut"
+            ]
+        }
+    },
+    {
+        "hair": {
+            "hair-color": "deep burgundy",
+            "hair-length": "buzz cut",
+            "hair-style": [
+                "textured",
+                "crew"
+            ]
+        }
+    },
+    {
+        "hair": {
+            "hair-color": "natural brown",
+            "hair-length": "long",
+            "hair-style": [
+                "curly",
+                "high-bun"
+            ]
+        }
+    },
+    {
+        "hair": {
+            "hair-color": "ash grey",
+            "hair-length": "short",
+            "hair-style": [
+                "sleek",
+                "undercut"
+            ]
+        }
+    },
+    {
+        "hair": {
+            "hair-color": "vibrant pink",
+            "hair-length": "pixie",
+            "hair-style": [
+                "spiky",
+                "mohawk"
+            ]
+        }
+    },
+    {
+        "hair": {
+            "hair-color": "auburn",
+            "hair-length": "short",
+            "hair-style": [
+                "curly",
+                "bob"
+            ]
+        }
+    },
+    {
+        "hair": {
+            "hair-color": "platinum blonde",
+            "hair-length": "long",
+            "hair-style": [
+                "straight",
+                "layered"
+            ]
+        }
+    },
+    {
+        "hair": {
+            "hair-color": "jet black",
+            "hair-length": "medium",
+            "hair-style": [
+                "wavy",
+                "side-parted"
+            ]
+        }
+    },
+    {
+        "hair": {
+            "hair-color": "chestnut",
+            "hair-length": "very long",
+            "hair-style": [
+                "braided",
+                "updo"
+            ]
+        }
+    },
+    {
+        "hair": {
+            "hair-color": "honey blonde",
+            "hair-length": "shoulder-length",
+            "hair-style": [
+                "sleek",
+                "ponytail"
+            ]
+        }
+    },
+    {
+        "hair": {
+            "hair-color": "rich red",
+            "hair-length": "pixie",
+            "hair-style": [
+                "spiky",
+                "textured"
+            ]
+        }
+    }
+]

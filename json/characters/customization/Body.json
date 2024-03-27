@@ -1,0 +1,66 @@
+[
+    {
+        "body-fur-color": "gray",
+        "body-physique": [
+            "athletic",
+            "tall"
+        ],
+        "body-height": "185cm"
+    },
+    {
+        "body-fur-color": "red",
+        "body-physique": [
+            "heavy",
+            "short"
+        ],
+        "body-height": "155cm"
+    },
+    {
+        "body-fur-color": "blue",
+        "body-physique": [
+            "slender",
+            "medium"
+        ],
+        "body-height": "175cm"
+    },
+    {
+        "body-fur-color": "green",
+        "body-physique": [
+            "stocky",
+            "tall"
+        ],
+        "body-height": "190cm"
+    },
+    {
+        "body-fur-color": "yellow",
+        "body-physique": [
+            "petite",
+            "short"
+        ],
+        "body-height": "150cm"
+    },
+    {
+        "body-fur-color": "black",
+        "body-physique": [
+            "slim",
+            "tall"
+        ],
+        "body-height": "180cm"
+    },
+    {
+        "body-fur-color": "white",
+        "body-physique": [
+            "muscular",
+            "short"
+        ],
+        "body-height": "160cm"
+    },
+    {
+        "body-fur-color": "brown",
+        "body-physique": [
+            "average",
+            "medium"
+        ],
+        "body-height": "170cm"
+    }
+]
