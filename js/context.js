@@ -12,8 +12,8 @@ const modifier = (text) => {
         mText = mText.replace(pattern, ' ');
     });
 
-    mText = mText.replace(/ hand /gi, 'paw');
-    mText = mText.replace(/ hands /gi, 'paws');
+    mText = mText.replace(/ hand /gi, ' paw ');
+    mText = mText.replace(/ hands /gi, ' paws ');
     // ======================================
 
     return { text: mText };

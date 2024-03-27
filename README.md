@@ -23,7 +23,7 @@ To integrate Open Dungeon into your game, follow these simple steps:
 
 ### Defining Your Narrative
 
-- **Character Files**: Add a `"you"` property to your character's JSON to establish your identity in the game. Define their tbackground and species to bring them to life.
+- **Character Files**: Add a `"you"` property to your character's JSON to establish your identity in the game. Define their background and species to bring them to life.
 - **Species Files**: If you opt for a custom species, ensure the `"you"` property reflects that you are perceived as this species within the game's universe.
 
 
